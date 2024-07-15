@@ -32,20 +32,16 @@
   5) CSS
 
 
-## Video Link:
-https://youtu.be/S8VGYfEZrXU
+
 
 *****************************
 
-PPT Link:
-https://drive.google.com/file/d/1EqVD5OBZlHg_rhSgbKWRTnKlAxFoR4sO/view?usp=sharing
+
 
 ***************************************************************
 # How to Clone this repo
 
-Open gitbash and type the following command:
 
-##### git clone "https://github.com/somya51p/SAFehER/"</b>
 
 *************************************************************
 Create virtual environment, Open Visual Studio code and type the following command in terminal:
@@ -63,7 +59,7 @@ Followed by these commands in terminal itself:
 
 *************************************************************
 
-To run the SAFehER app then type:
+To run the Gynoguide app then type:
 
 ##### python manage.py runserver
 
